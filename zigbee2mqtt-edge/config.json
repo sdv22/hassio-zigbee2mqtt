@@ -1,10 +1,10 @@
 {
-  "name": "zigbee2mqtt-edge",
+  "name": "zigbee2mqtt-edge-sdv22",
   "version": "test",
   "slug": "zigbee2mqtt_edge",
   "description": "Development build of the zigbee2mqtt add-on",
   "auto_uart": true,
-  "url": "https://github.com/danielwelch/hassio-zigbee2mqtt",
+  "url": "https://github.com/sdv22/hassio-zigbee2mqtt",
   "startup": "before",
   "arch": [
     "aarch64",
@@ -127,5 +127,5 @@
       "transmit_power": "int(-19,22)?"
     }
   },
-  "image": "dwelch2101/zigbee2mqtt-edge-{arch}"
+  "image": "sdv22/zigbee2mqtt-edge-{arch}"
 }
