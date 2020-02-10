@@ -140,6 +140,5 @@
       "options": "str?",
       "log": "bool?"
     }
-  },
-  "image": "sdv22/zigbee2mqtt-{arch}"
+  }
 }

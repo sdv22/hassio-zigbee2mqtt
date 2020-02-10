@@ -56,7 +56,9 @@
       "options": "-d -d",
       "log": false
     },
-    "experimental": {}
+    "experimental": {
+      "transmit_power": 0
+    }
   },
   "schema": {
     "zigbee_shepherd_devices": "bool?",
@@ -126,6 +128,5 @@
     "experimental": {
       "transmit_power": "int(-19,22)?"
     }
-  },
-  "image": "sdv22/zigbee2mqtt-edge-{arch}"
+  }
 }
