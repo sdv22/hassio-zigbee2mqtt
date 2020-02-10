@@ -126,7 +126,7 @@
       "log": "bool?"
     },
     "experimental": {
-      "transmit_power": "int(-19,22)?"
+      "transmit_power": "int?"
     }
   }
 }
