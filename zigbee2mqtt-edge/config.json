@@ -128,5 +128,6 @@
     "experimental": {
       "transmit_power": "int?"
     }
-  }
+  },
+  "image": "sdv22/zigbee2mqtt-{arch}"
 }
