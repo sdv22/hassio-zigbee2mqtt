@@ -141,5 +141,5 @@
       "log": "bool?"
     }
   },
-  "image": "sdv22/zigbee2mqtt-{arch}"
+  "image": "dwelch2101/zigbee2mqtt-{arch}"
 }
